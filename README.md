@@ -1,5 +1,5 @@
-### Hi👋, I'm Novia Marsheila Louisyana
-<br><br><br>
+### <h1>Hi👋, I'm Novia Marsheila Louisyana </h1>
+<br><hr>
 
 
 🌱 I’m currently learning React Js
