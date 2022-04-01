@@ -3,12 +3,11 @@
 🌱 I’m currently learning React Js <br>
 🌱 I really like programming, especially about web dev
 
-
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noviamarsheila&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noviamarsheila&theme=radical&layout=compact)](https://github.com/noviamarsheila/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noviamarsheila&theme=radical&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
