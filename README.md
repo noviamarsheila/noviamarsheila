@@ -1,6 +1,6 @@
 ### <h1>Hi👋, I'm Novia Marsheila Louisyana </h1>
 
-🌱 I’m currently learning React Js
+🌱 I’m currently learning React Js <br>
 🌱 I really like programming
 
 
