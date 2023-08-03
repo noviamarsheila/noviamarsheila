@@ -2,8 +2,9 @@
 
 <br>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noviamarsheila&theme=radical&layout=compact)
+-->
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
