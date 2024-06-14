@@ -9,8 +9,8 @@
 
 <h2>💼 Skills</h2>
 <p>Here are some of my skills: </p>
-💫Languages: JavaScript, PHP, <br/>
-💫Frameworks/Libraries: React.js, Node.js, Bootstrap, TailwindCSS, Laravel <br/>
+💫Languages: HTML5, CSS3, JavaScript, PHP <br/>
+💫Frameworks/Libraries: React.js, JQuery, Node.js, Bootstrap, TailwindCSS, Laravel <br/>
 💫Tools: Git, VS Code, Figma <br/>
 
 <h2>🚀 Goals</h2>
